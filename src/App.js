@@ -7,7 +7,6 @@ import Main from './pages/maincarousel';
 import Service from './pages/services';
 import Experts from './pages/expertise';
 import Sub from './pages/sub';
-import rout from './pages/Router';
 
 function App() {
   return (
